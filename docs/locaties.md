@@ -1,17 +1,15 @@
-# Locaties
+# Locations of Animal Farm
 
-De plaatsen waar dit universum zich afspeelt.
+Explore the important places in George Orwell's *Animal Farm*.
 
-Vervang de voorbeelden hieronder door **minstens drie** locaties uit je eigen universum, elk met een korte beschrijving van twee tot vier zinnen.
+## The Farmhouse
 
-## VUL AAN
+The farmhouse was once the home of Mr. Jones, the original owner of the farm.
+After the rebellion, the animals agreed that no animal should ever live there.
+However, Napoleon and the other pigs eventually moved into the house, showing how they were becoming like the humans they had overthrown.
 
-VUL AAN: waar ligt deze plek, wie komt er, en waarom is ze belangrijk voor het verhaal?
+## The Barn
 
-## VUL AAN
-
-VUL AAN
-
-## VUL AAN
-
-VUL AAN
+The barn is where the animals gather to discuss their future and share their dreams of freedom.
+It is also where Old Major gives his famous speech that inspires the rebellion.
+Later, the Seven Commandments are painted on its wall, reminding the animals of the principles they once believed in.
