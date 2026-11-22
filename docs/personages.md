@@ -1,11 +1,11 @@
-# Personages
+# Characters of Animal Farm
 
-De belangrijkste personages uit dit universum.
+Meet the five important characters from George Orwell's *Animal Farm*.
 
-Vervang de drie regels met `VUL AAN` door echte personages, en vul de tabel verder aan tot ze er **minstens vijf** bevat.
-
-| Naam | Rol | Eerste verschijning |
+| Name | Role | First Appearance |
 |---|---|---|
-| VUL AAN | VUL AAN | VUL AAN |
-| VUL AAN | VUL AAN | VUL AAN |
-| VUL AAN | VUL AAN | VUL AAN |
+| Old Major | The wise old pig whose dream of freedom inspires the rebellion. | Chapter 1 |
+| Napoleon | An ambitious pig who slowly becomes a cruel dictator. | Chapter 2 |
+| Snowball | An intelligent pig who dreams of improving life on the farm. | Chapter 2 |
+| Boxer | A strong, hardworking horse who believes in the rebellion. | Chapter 1 |
+| Squealer | A clever pig who uses lies and propaganda to defend Napoleon. | Chapter 2 |
